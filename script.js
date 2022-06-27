@@ -1,8 +1,8 @@
-console.log("page loaded...");
+// console.log("page loaded...");
 
-function play(element) {
-    element.play();
-}
-function pause(element) {
-    element.pause();
-}
+// function play(element) {
+//     element.play();
+// }
+// function pause(element) {
+//     element.pause();
+// }
